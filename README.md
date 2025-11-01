@@ -9,7 +9,7 @@ Projeto desenvolvido como **Checkpoint** da matéria de **Front-end** da faculda
 
 ## 🌐 Demonstração
 
-🔗 **[Acesse o projeto no GitHub Pages](SEU_LINK_GITHUB_PAGES_AQUI)**
+🔗 **[Acesse o projeto no GitHub Pages](https://kevincvenancio.github.io/cpFront06/)**
 
 ## 📖 Sobre o Projeto
 
